@@ -35,3 +35,35 @@ footer a:hover {
     font-family: fantasy, Arial, Helvetica, sans-serif;
 }
 
+header {
+    background-color: #222;
+    color: silver;
+    padding: 2rem 0;
+    border-bottom: 4px solid brown;
+}
+
+header h2 {
+    font-size: 1.1rem;
+    font-weight: 300;
+    font-style: italic;
+}
+
+header img {
+    border-radius: 8px;
+}
+
+.row-content {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.carousel-item img {
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.carousel-caption {
+    background: rgba(0,0,0,0.5);
+    padding: 1rem;
+    border-radius: 8px;
+}
