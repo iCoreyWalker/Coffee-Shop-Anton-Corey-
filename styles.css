@@ -67,3 +67,9 @@ header img {
     padding: 1rem;
     border-radius: 8px;
 }
+
+#homeCarousel .carousel-item img {
+    height: 500px;
+    object-fit: cover;
+    width: 100%;
+}
